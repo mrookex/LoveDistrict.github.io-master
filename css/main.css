@@ -1,0 +1,206 @@
+body,html{
+  margin: 0;
+  padding:0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar-brand img{
+  width: auto;
+  height: 52px;
+
+}
+
+
+.navbar-default{
+  background-color: #ffffff;
+  border: none;
+
+}
+.navbar-default .navbar-nav>li>a{
+  color: #F66D6D;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px;
+}
+
+.carousel-caption {
+  text-align-last: center;
+}
+
+.carousel-inner {
+  display: run-in;
+  margin-bottom: 30px;
+}
+
+.carousel-control{
+  width: auto;
+  height: auto;
+
+}
+.carousel-inner img {
+  width: 80%;
+  height: auto;
+  display: block;
+
+}
+
+.carousel-caption h1 {
+  font-size: 54px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+hr {
+  width: 60%;
+  height: 1px;
+  border-color: #979797;
+  background-color: #979797;
+
+
+}
+
+.row .col-md-12 h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 64px;
+  color: #F66D6D;
+  text-align: center;
+  font-weight: bold;
+  margin: 10px;
+
+
+}
+.row .col-md-12 p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  color: #000000;
+  text-align: center;
+
+}
+.carousel-caption {
+
+
+}
+.carousel-caption a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 54px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+.carousel-caption a:hover {
+  color: #E49B9B;
+  text-decoration: none;
+  font-size: 54px;
+  font-family: 'Montserrat', sans-serif;
+}
+.glyphicon-chevron-right:before  {
+  content: none;
+}
+@media screen and (max-width:632px) {
+
+}
+.content-hotel {
+  width: 80%;
+  height: auto;
+  background: url("../img/test.png") ;
+  background-repeat: no-repeat;
+  min-height: 600px;
+  margin-bottom: 30px;
+
+}
+.content-hotel h1 {
+  padding-top: 270px;
+  color: #FFFFFF;
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+.content-restaurant {
+  width: 80%;
+  height: auto;
+  background: url("../img/test.png") ;
+  background-repeat: no-repeat;
+  min-height: 600px;
+
+}
+.content-restaurant h1 {
+  padding-top: 270px;
+  color: #FFFFFF;
+
+  font-family: 'Montserrat', sans-serif;
+
+}
+.content-travel {
+  width: 80%;
+  height: auto;
+  background: url("../img/test.png") ;
+  background-repeat: no-repeat;
+  min-height: 600px;
+
+}
+.content-travel h1 {
+  padding-top: 270px;
+  color: #FFFFFF;
+
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 50px;
+}
+
+.mytophotel{
+  text-align: center;
+  padding: 10px 50px 10px 50px;
+}
+.mytophotel h1{
+
+  text-transform: uppercase;
+  color: #F66D6D;
+  font-weight: bold;
+}
+.firsthotel{
+  text-align: center;
+  padding: 10px 50px 10px 50px;
+}
+.firsthotel h1{
+  text-align: left;
+  text-transform: uppercase;
+  color: #F66D6D;
+  font-weight: bold;
+}
+.firsthotel .img-responsive img{
+  width: 70%;
+}
+.content-contact{
+  text-align: center;
+  padding: 10px 50px 40px 50px;
+}
+.footer{
+  padding-top: 50px;
+  text-align: center;
+  opacity: 0.7;
+}
+.header{
+  text-align: center;
+}
+.header h1{
+  text-transform: uppercase;
+  color: #F66D6D;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+.header p{
+  text-align: center;
+  padding: 50px 50px 50px 50px;
+}
+.row .col-md-4{
+  padding-top: 40px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.row .col-md-4 h4{
+  text-transform: uppercase;
+  color: #F66D6D;
+  font-weight: bold;
+}
+.map{
+  padding: 30px 30px;
